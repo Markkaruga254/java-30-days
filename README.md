@@ -50,7 +50,7 @@ Plan for approximately 2–3 hours:
 | 22–28 | Build tools, JDBC, Spring Boot, JPA, security, Docker | Working REST API |
 | 29–30 | Capstone implementation and retrospective | Secure API v1.0 |
 
-Each `day-NN/` folder contains its lesson plan, daily log, and starter code. Open the [roadmap](https://Markkaruga254.github.io/java-30-days/#roadmap) to navigate all 30 days.
+Each `day-NN/` folder contains its lesson plan, daily log, and starter code. Open the [roadmap](https://markkaruga254.github.io/java-30-days/) to navigate all 30 days.
 
 ## Repository structure
 
