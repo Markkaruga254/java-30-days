@@ -1,0 +1,10 @@
+// LeetCode 98: Validate Binary Search Tree
+// https://leetcode.com/problems/validate-binary-search-tree/
+// Difficulty: Medium | Pattern: BST, DFS
+//
+// 1) Write the brute-force solution first.
+// 2) Then write the optimized solution below and state its complexity.
+
+class Solution {
+    // TODO: paste the method signature from LeetCode here and implement it.
+}
