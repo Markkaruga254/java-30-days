@@ -1,0 +1,26 @@
+# Java
+*.class
+out/
+target/
+build/
+.gradle/
+*.jar
+*.war
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets - never commit these
+.env
+*.pem
+application-local.properties
